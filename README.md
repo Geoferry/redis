@@ -12,7 +12,7 @@ different packages: a [RESP decoder][8] (`resp`) and the [redis client][9]
 Use `go get` to install or upgrade (`-u`) the `redis` package.
 
 ```
-go get -u menteslibres.net/gosexy/redis
+go get -u github.com/gosexy/redis
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ Use `import` to use `redis` in your program:
 
 ```
 import (
-  "menteslibres.net/gosexy/redis"
+  "github.com/gosexy/redis"
 )
 ```
 
