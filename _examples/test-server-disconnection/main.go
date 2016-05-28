@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
+	"github.com/gosexy/redis"
 	"log"
-	"menteslibres.net/gosexy/redis"
 )
 
 var host = "127.0.0.1"

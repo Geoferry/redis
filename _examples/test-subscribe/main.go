@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/gosexy/redis"
 	"log"
-	"menteslibres.net/gosexy/redis"
 	"strings"
 	"time"
 )

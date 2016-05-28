@@ -1,7 +1,7 @@
 package main
 
 import (
-	"menteslibres.net/gosexy/redis"
+	"github.com/gosexy/redis"
 	"log"
 )
 

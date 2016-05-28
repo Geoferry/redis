@@ -24,8 +24,8 @@ package redis
 import (
 	"errors"
 	"fmt"
+	"github.com/gosexy/to"
 	"io"
-	"menteslibres.net/gosexy/to"
 	"strings"
 )
 
