@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gosexy/redis"
+	"github.com/Geoferry/redis"
 	"github.com/xiam/resp"
 	"log"
 	"reflect"

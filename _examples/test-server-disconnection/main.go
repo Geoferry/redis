@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gosexy/redis"
+	"github.com/Geoferry/redis"
 	"log"
 )
 
